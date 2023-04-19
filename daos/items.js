@@ -2,7 +2,7 @@ const uuid = require('uuid');
 
 const itemsModel = require('../models/items');
 
-module.exports = {};
+module.exports = [];
 
 
 module.exports.getAll = () => {
